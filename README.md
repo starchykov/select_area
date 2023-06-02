@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Overview:
+
+<img alt="img.png" src="https://github.com/starchykov/select_area/blob/main/assets/images/screen.png" width="400"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
